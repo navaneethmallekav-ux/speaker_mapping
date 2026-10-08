@@ -18,7 +18,7 @@ The system computes:
 
 ## Files
 
-- `Optimized_Speaker_Placement_MFAD_Orange_Project.ipynb` — main notebook containing the implementation, explanation, and visualizations.
+- `Optimized Speaker Placement.ipynb` — main notebook containing the implementation, explanation, and visualizations.
 
 ## How to Run
 
